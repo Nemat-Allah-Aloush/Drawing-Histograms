@@ -6,6 +6,7 @@ In the following picture we can see a screenshot of the GUI of the program. Whil
 ![alt text](https://github.com/Nemat-Allah-Aloush/Drawing-Histograms/blob/main/imgs/GUI_example.png " GUI example")
 
 In order to run this program, the data file format should be as shown in the following image:
+
 ![alt text](https://github.com/Nemat-Allah-Aloush/Drawing-Histograms/blob/main/imgs/File_Format.png " File Format")
 
 In order to explain the format of the data file, we will take an example of data file about precipitation rate for cities in Syria.
