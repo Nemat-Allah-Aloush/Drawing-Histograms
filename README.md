@@ -1,4 +1,4 @@
-# Drawing-Histograms
+# Drawing Histograms
 An academic project at HIAST aimed to draw histogram out of data file. The project is written in Java programing language.
 
 ## Output Example
