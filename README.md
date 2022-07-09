@@ -21,3 +21,8 @@ The user can enters a specific option in the TextField, and the program verifies
 - (A digit) If this number is smaller than the number of governorates in the file, then the program will draw an average precipitation for the corresponding governorate by its rank in the data file. The plot will be in terms of the corresponding years.
 - More than one digit separated by commas (For example “1,2,3”). After checking the presence of the correspondings governorates by ranks, the program draws 
 an average rainfall histogram for the corresponding governorates according to their ranks.
+
+
+---
+
+Note: The project with developed within a team of two.
