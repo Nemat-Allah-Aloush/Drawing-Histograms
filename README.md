@@ -1,6 +1,13 @@
 # Drawing Histograms
 An academic project at HIAST aimed to draw histogram out of data file. The project is written in Java programing language.
 
+## Index
+1. [Output Example](#output-example)
+2. [Input data file example](#input-data-file-example)
+3. [Options in GUI](#options-in-gui)
+
+---
+
 ## Output Example
 In the following picture we can see a screenshot of the GUI of the program. While the input is a file with data about precipitation rate, the output is a histogram representing the data.
 
